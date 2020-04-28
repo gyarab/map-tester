@@ -1,0 +1,41 @@
+body{
+    background-image: linear-gradient(125deg,#adadb2,#bbbbbd,#865bce); 
+    background-size: 400% 400%; 
+    animation: bganimation 30s infinite;
+    font-family: "montserat";
+}
+
+@keyframes bganimation {
+    0%{
+        background-position: 0% 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0% 50%;
+    }
+}
+p {
+    font-family: "Courier New";
+}
+button {
+    font-family: "Courier New";
+}
+form{
+    font-family: "Courier New";
+}
+button {
+	background:linear-gradient(to bottom, #74389c 5%, #1d0e2e 100%);
+	background-color:#74389c;
+	border-radius:29px;
+	border:1px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:"Courier";
+	font-size:14px;
+	padding:4px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+}
