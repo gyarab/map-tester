@@ -1,5 +1,5 @@
-K spuštení projektu:
-1. nainstalujte python3 https://www.python.org/downloads/
-2. otevrete v adresári rocnikovka terminál ci príkazovı rádek
-3. spustte príkaz: python3 -m http.server
-4. Do internetového prohlíece zadejte IP adresu z terminálu ci príkazového rádku
+K spuÅ¡tenÃ­ projektu:
+1. nainstalujte python3: https://www.python.org/downloads/
+2. otevÅ™ete v adresÃ¡Å™i rocnikovka terminÃ¡l Äi pÅ™Ã­kazovÃ½ Å™Ã¡dek
+3. spusÅ¥te pÅ™Ã­kaz: python3 -m http.server
+4. Do internetovÃ©ho prohlÃ­Å¾ece zadejte IP adresu z terminÃ¡lu Äi pÅ™Ã­kazovÃ©ho rÃ¡dku
